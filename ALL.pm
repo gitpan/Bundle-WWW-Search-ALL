@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.13';
+$VERSION = '1.14';
 
 1;
 
@@ -24,8 +24,6 @@ WWW::Search::AlltheWeb
 
 J/JS/JSMYSER/WWW-Search-AltaVista-AdvancedWeb-2.02.tar.gz
 
-WWW::Search::Deja
-
 J/JS/JSMYSER/WWW-Search-EuroSeek-1.03.tar.gz
 
 WWW::Search::Excite
@@ -44,7 +42,7 @@ J/JS/JSMYSER/WWW-Search-LookSmart-2.05.tar.gz
 
 WWW::Search::Lycos
 
-M/MT/MTHURN/WWW-Search-Magellan-2.06.tar.gz
+M/MT/MTHURN/WWW-Search-Magellan-2.09.tar.gz
 
 J/JS/JSMYSER/WWW-Search-MetaCrawler-2.07.tar.gz
 
@@ -66,7 +64,7 @@ WWW::Search::Translator
 
 J/JS/JSMYSER/WWW-Search-X-Search-1.06.tar.gz
 
-M/MT/MTHURN/WWW-Search-Yahoo-2.18.tar.gz
+M/MT/MTHURN/WWW-Search-Yahoo-2.21.tar.gz
 
 WWW::Search::YahooNews
 
