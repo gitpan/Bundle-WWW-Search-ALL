@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.02';
+$VERSION = '1.03';
 
 1;
 
@@ -18,6 +18,8 @@ C<perl -MCPAN -e 'install Bundle::WWW::Search::ALL'>
 
 Bundle::WWW::Search
 
+WWW::Search::AllTheWeb
+
 WWW::Search::Deja
 
 WWW::Search::Excite
@@ -27,6 +29,8 @@ WWW::Search::HotBot
 M/MT/MTHURN/WWW-Search-Magellan-2.05.tar.gz
 
 J/JS/JSMYSER/WWW-Search-OpenDirectory.tar.gz
+
+WWW::Search::PRWire
 
 M/MT/MTHURN/WWW-Search-Yahoo-2.07.tar.gz
 
