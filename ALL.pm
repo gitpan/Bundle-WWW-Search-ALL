@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.08';
+$VERSION = '1.09';
 
 1;
 
@@ -42,7 +42,7 @@ M/MT/MTHURN/WWW-Search-Magellan-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-MetaCrawler-2.07.tar.gz
 
-J/JS/JSMYSER/WWW-Search-NorthernLight-2.06.tar.gz
+J/JS/JSMYSER/WWW-Search-NorthernLight.-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-OpenDirectory-2.02.tar.gz
 
@@ -56,7 +56,7 @@ WWW::Search::Translator
 
 J/JS/JSMYSER/WWW-Search-X-Search-1.06.tar.gz
 
-M/MT/MTHURN/WWW-Search-Yahoo-2.11.tar.gz
+M/MT/MTHURN/WWW-Search-Yahoo-2.13.tar.gz
 
 J/JS/JSMYSER/WWW-Search-ZDNet-2.02+.tar.gz
 
