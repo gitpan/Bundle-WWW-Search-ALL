@@ -1,22 +1,12 @@
 Bundle::WWW::Search::ALL - A bundle to install all WWW::Search modules and backends
 
-Version 0.9 - 2000-03-02
 Bundled by: Martin Thurn <martinthurn@iname.com>
-
-To install this Bundle file locally:
-
-perl Makefile.PL
-make install
-
-Then, for a full list of the modules which this bundle
-installs, use:
-
-perldoc Bundle::WWW::Search::ALL
-
-Finally, to install the modules which the bundle lists:
-
-perl -MCPAN -e 'install Bundle::WWW::Search::ALL'
 
 This bundle gathers together all of the modules for WWW::Search,
 including all the prerequisites and all the backends.
 
+There are two steps in installing this Bundle.  
+
+cpan> install M/MT/MTHURN/Bundle-WWW-Search-ALL-1.09.tar.gz
+...
+cpan> install Bundle::WWW::Search::ALL
