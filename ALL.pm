@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.03';
+$VERSION = '1.04';
 
 1;
 
@@ -22,7 +22,13 @@ WWW::Search::AllTheWeb
 
 WWW::Search::Deja
 
+J/JS/JSMYSER/WWW-Search-EuroSeek-1.2+.tar.gz
+
 WWW::Search::Excite
+
+J/JS/JSMYSER/WWW-Search-GoTo-1.6+.tar.gz
+
+J/JS/JSMYSER/WWW-Search-Google-2.18+.tar.gz
 
 WWW::Search::HotBot
 
@@ -32,7 +38,11 @@ J/JS/JSMYSER/WWW-Search-OpenDirectory.tar.gz
 
 WWW::Search::PRWire
 
-M/MT/MTHURN/WWW-Search-Yahoo-2.07.tar.gz
+J/JS/JSMYSER/WWW-Search-Snap-2.05+.tar.gz
+
+M/MT/MTHURN/WWW-Search-Yahoo-2.11.tar.gz
+
+J/JS/JSMYSER/WWW-Search-ZDNet-2.02+.tar.gz
 
 =head1 DESCRIPTION
 
