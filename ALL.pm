@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '0.9';
+$VERSION = '1.01';
 
 __END__
 
@@ -14,19 +14,11 @@ C<perl -MCPAN -e 'install Bundle::WWW::Search::ALL'>
 
 =head1 CONTENTS
 
-Bundle::LWP		- prerequisite
-
-URI::Escape             - prerequisite
-
-HTML::Parser            - prerequisite
-
-HTML::TreeBuilder       - prerequisite
-
-WWW::Search
+Bundle::WWW::Search
 
 WWW::Search::Deja
 
-M/MT/MTHURN/WWW-Search-Excite-2.05.tar.gz
+WWW::Search::Excite
 
 WWW::Search::HotBot
 
