@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.12';
+$VERSION = '1.13';
 
 1;
 
@@ -12,6 +12,8 @@ Bundle::WWW::Search::ALL - A bundle to install all WWW::Search modules and backe
 
 =head1 SYNOPSIS
 
+C<perl Makefile.PL>
+C<make install>
 C<perl -MCPAN -e 'install Bundle::WWW::Search::ALL'>
 
 =head1 CONTENTS
@@ -30,6 +32,8 @@ WWW::Search::Excite
 
 J/JS/JSMYSER/WWW-Search-Excite-News-2.04.tar.gz
 
+WWW::Search::Go
+
 J/JS/JSMYSER/WWW-Search-GoTo-1.07.tar.gz
 
 J/JS/JSMYSER/WWW-Search-Google-2.21.tar.gz
@@ -46,6 +50,8 @@ J/JS/JSMYSER/WWW-Search-MetaCrawler-2.07.tar.gz
 
 J/JS/JSMYSER/WWW-Search-News-2.05.tar.gz
 
+WWW::Search::Nomade
+
 J/JS/JSMYSER/WWW-Search-NorthernLight.-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-OpenDirectory-2.02.tar.gz
@@ -60,7 +66,7 @@ WWW::Search::Translator
 
 J/JS/JSMYSER/WWW-Search-X-Search-1.06.tar.gz
 
-M/MT/MTHURN/WWW-Search-Yahoo-2.14.tar.gz
+M/MT/MTHURN/WWW-Search-Yahoo-2.18.tar.gz
 
 WWW::Search::YahooNews
 
@@ -70,6 +76,9 @@ J/JS/JSMYSER/WWW-Search-ZDNet-2.02+.tar.gz
 
 This bundle gathers together all of the modules for WWW::Search,
 including all the prerequisites and all the backends.
+
+If you know of other backends or updated backends, please inform the
+author:
 
 =head1 AUTHOR
 
