@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.06';
+$VERSION = '1.07';
 
 1;
 
@@ -36,6 +36,8 @@ WWW::Search::HotBot
 
 J/JS/JSMYSER/WWW-Search-LookSmart-2.05.tar.gz
 
+WWW::Search::Lycos
+
 M/MT/MTHURN/WWW-Search-Magellan-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-MetaCrawler-2.07.tar.gz
@@ -50,7 +52,7 @@ J/JS/JSMYSER/WWW-Search-Snap-2.06.tar.gz
 
 WWW::Search::Translator
 
-J/JS/JSMYSER/WWW-Search-X-Search-1.03.tar.gz
+J/JS/JSMYSER/WWW-Search-X-Search-1.06.tar.gz
 
 M/MT/MTHURN/WWW-Search-Yahoo-2.11.tar.gz
 
