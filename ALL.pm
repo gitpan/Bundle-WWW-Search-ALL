@@ -1,6 +1,6 @@
 package Bundle::WWW::Search::ALL;
 
-$VERSION = '1.07';
+$VERSION = '1.08';
 
 1;
 
@@ -18,7 +18,7 @@ C<perl -MCPAN -e 'install Bundle::WWW::Search::ALL'>
 
 Bundle::WWW::Search
 
-WWW::Search::AllTheWeb
+WWW::Search::AlltheWeb
 
 J/JS/JSMYSER/WWW-Search-AltaVista-AdvancedWeb-2.02.tar.gz
 
@@ -42,11 +42,13 @@ M/MT/MTHURN/WWW-Search-Magellan-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-MetaCrawler-2.07.tar.gz
 
-J/JS/JSMYSER/WWW-Search-NorthernLight-2.05.tar.gz
+J/JS/JSMYSER/WWW-Search-NorthernLight-2.06.tar.gz
 
 J/JS/JSMYSER/WWW-Search-OpenDirectory-2.02.tar.gz
 
 WWW::Search::PRWire
+
+WWW::Search::PubMed
 
 J/JS/JSMYSER/WWW-Search-Snap-2.06.tar.gz
 
